@@ -1,2 +1,37 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Compiled class files
 *.class
+
+# Logs
+*.log
+
+# VS Code
 .vscode/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# JavaFX / temp
+*.jar
+*.war
+*.ear
+
+# Maven local repo (just in case)
+.mvn/
