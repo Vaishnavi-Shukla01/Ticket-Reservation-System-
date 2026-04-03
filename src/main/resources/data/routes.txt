@@ -1,0 +1,26 @@
+routeId,source,destination,type,seats,price,category
+101,Delhi,Mumbai,AC Sleeper,50,1200,Express
+102,Delhi,Bangalore,Non-AC,40,900,Superfast
+103,Mumbai,Pune,Seater,60,300,Local
+104,Dehradun,Delhi,AC Seater,30,500,Express
+105,Chandigarh,Delhi,Non-AC,35,250,Local
+106,Delhi,Jaipur,AC Sleeper,45,700,Express
+107,Jaipur,Delhi,Seater,50,400,Local
+108,Mumbai,Goa,AC Sleeper,30,1500,Tourist
+109,Delhi,Lucknow,Non-AC,55,600,Express
+110,Lucknow,Delhi,AC Seater,45,800,Express
+111,Delhi,Amritsar,AC Sleeper,40,900,Express
+112,Amritsar,Delhi,Non-AC,50,500,Local
+113,Delhi,Chennai,AC Sleeper,35,2000,Superfast
+114,Chennai,Delhi,Non-AC,40,1800,Superfast
+115,Pune,Bangalore,AC Seater,30,1100,Express
+116,Bangalore,Hyderabad,Non-AC,45,700,Local
+117,Hyderabad,Chennai,AC Sleeper,35,1300,Express
+118,Kolkata,Delhi,AC Sleeper,40,1700,Superfast
+119,Delhi,Kolkata,Non-AC,50,1500,Superfast
+120,Mumbai,Ahmedabad,AC Seater,30,800,Express
+121,Ahmedabad,Mumbai,Non-AC,40,600,Local
+122,Jaipur,Udaipur,AC Sleeper,25,900,Tourist
+123,Udaipur,Jaipur,Non-AC,30,700,Local
+124,Delhi,Shimla,AC Seater,20,650,Tourist
+125,Shimla,Delhi,Non-AC,25,500,Local

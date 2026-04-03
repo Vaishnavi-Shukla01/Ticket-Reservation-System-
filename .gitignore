@@ -35,3 +35,6 @@ Thumbs.db
 
 # Maven local repo (just in case)
 .mvn/
+
+# Data files
+users.txt
