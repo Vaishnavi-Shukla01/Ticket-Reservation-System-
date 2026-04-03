@@ -6,8 +6,8 @@ A JavaFX-based Ticket Reservation System with role-based login, route management
 
 Make sure you have the following installed:
 
-Java JDK 17 or above
-Maven
+- Java JDK 17 or above
+- Maven
 Any IDE (VS Code / IntelliJ) or terminal
 1. Clone the Repository
   git clone https://github.com/<your-username>/Ticket-Reservation-System.git
